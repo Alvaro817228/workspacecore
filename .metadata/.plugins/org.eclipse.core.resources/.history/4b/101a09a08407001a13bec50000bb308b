@@ -1,0 +1,31 @@
+package main;
+
+import bean.Direccion;
+import bean.Habitacion;
+import bean.Persona;
+
+public class testCasa {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Direccion d1 = new Direccion();
+		d1.setCiudad("Madrid");
+		d1.setTipovia("calle");
+		d1.setNombreVia("Betanzos");
+		d1.setCp("28029");
+		
+		Persona p1 = new Persona();
+		p1.setNombre("Alvaro");
+		p1.setEdad(36);
+		p1.setPeso(80);
+		p1.setDireccion(d1);
+		
+		Habitacion h1 = new Habitacion();
+		h1.
+		
+		
+		
+
+	}
+
+}

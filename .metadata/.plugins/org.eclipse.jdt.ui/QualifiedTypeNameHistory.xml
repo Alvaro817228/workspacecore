@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="saludo"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="empleado"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="Empleado"/>
+<fullyQualifiedTypeName name="com.core.javaps.beans.departamento"/>
+<fullyQualifiedTypeName name="com.core.javaps.beans.Empleado"/>
+<fullyQualifiedTypeName name="com.core.javaps.beans.Departamento"/>
+<fullyQualifiedTypeName name="beans.Departamento"/>
+<fullyQualifiedTypeName name="beans.Empleado"/>
+<fullyQualifiedTypeName name="beans.Animal"/>
+<fullyQualifiedTypeName name="beans.Gato"/>
+<fullyQualifiedTypeName name="bean.Direccion"/>
+<fullyQualifiedTypeName name="bean.Habitacion"/>
+<fullyQualifiedTypeName name="bean.Casa"/>
+<fullyQualifiedTypeName name="bean.Persona"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

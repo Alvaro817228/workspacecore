@@ -1,0 +1,14 @@
+package main;
+
+import bean.Direccion;
+
+public class testCasa {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Direccion d1 = new Direccion();
+		d1.
+
+	}
+
+}

@@ -1,0 +1,23 @@
+package beans;
+
+public class cliente {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int idcliente;
+		String usuario;
+		String pasword;
+		String nombre;
+		String apellidos;
+		String direccion;
+		idcliente (String usuario,String pasword,
+				String nombre, String apellidos, String direccion);
+		super();
+		this. idcliente = idcliente;
+		this usuario = usuario;
+	
+		
+
+	}
+
+}

@@ -1,0 +1,12 @@
+package colecciones;
+
+public class listarCoches {
+	
+	private String coche;
+	
+	String c1 = ("ferrari");
+	String c2 = ("porche");
+	String c3 = ("lamborgini");
+	 
+
+}

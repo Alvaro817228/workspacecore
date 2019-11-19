@@ -1,0 +1,18 @@
+pequeño programa que trabaje con coches
+Queremos que nuestros coches almacenen la siguiente informacion
+matricula
+marca
+modelo
+
+La aplicacion mostrara un menu con las siguientes opciones
+1- Alta coche
+2-Listar coches
+0-Salir del programa
+
+La opcion Alta coche nos preguntara por los datos de un coche
+(matricula,marca, modelo) y lo guardara en memoria (por ejemplo
+un arraylist)
+La opcion listar coches nos mostrara todos los coches que llevamos
+dados de alta
+La opcion 0 nos sacara del programa
+El menu se mostrara todo el rato hasta que se pulse la opcion 0

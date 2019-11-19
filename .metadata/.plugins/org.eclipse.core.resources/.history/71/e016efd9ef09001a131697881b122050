@@ -1,0 +1,33 @@
+package colecciones;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class testCoche2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+	 Scanner sc = new Scanner (System.in);
+	 ArrayList<altaCoche> coche = new ArrayList<altaCoche>();
+	 int opcion = 0;
+	 do {
+		System.out.println("1- Alta coche ");
+		System.out.println("2- Listar coches ");
+		System.out.println("0- Salir programa ");
+		opcion = sc.nextInt();
+		if(opcion == 1) {
+			
+		
+	 }while(opcion !=  0);
+		 
+	 }
+		
+		
+		
+		
+
+	}
+
+}

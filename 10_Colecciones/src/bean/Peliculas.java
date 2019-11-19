@@ -1,0 +1,48 @@
+package bean;
+
+public class Peliculas {
+	private String titulo;
+	private String genero;
+	private  Director director;
+	private String año;
+	public Peliculas(String titulo, String genero, Director director, String año) {
+		super();
+		this.titulo = titulo;
+		this.genero = genero;
+		this.director = director;
+		this.año = año;
+	}
+	public Peliculas() {
+		// TODO Auto-generated constructor stub
+	}
+	@Override
+	public String toString() {
+		return "Peliculas [titulo=" + titulo + ", genero=" + genero + ", director=" + director + ", año=" + año + "]";
+	}
+	public String getTitulo() {
+		return titulo;
+	}
+	public void setTitulo(String titulo) {
+		this.titulo = titulo;
+	}
+	public String getGenero() {
+		return genero;
+	}
+	public void setGenero(String genero) {
+		this.genero = genero;
+	}
+	public Director getDirector() {
+		return director;
+	}
+	public void setDirector(Director director) {
+		this.director = director;
+	}
+	public String getAño() {
+		return año;
+	}
+	public void setAño(String año) {
+		this.año = año;
+	}
+}
+	
+	

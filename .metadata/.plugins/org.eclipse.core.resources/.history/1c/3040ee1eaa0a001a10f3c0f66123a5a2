@@ -1,0 +1,17 @@
+package bean;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class testPeliculas {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner (System.in);
+		ArrayList<Peliculas> listaPeliculas = new ArrayList<Peliculas>();
+		int opcion = 0;
+		
+
+	}
+
+}
