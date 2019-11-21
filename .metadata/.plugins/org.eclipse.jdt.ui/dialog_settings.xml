@@ -19,7 +19,7 @@
 	</section>
 	<section name="NewClassWizardPage">
 		<item key="create_constructor" value="false"/>
-		<item key="create_unimplemented" value="true"/>
+		<item key="create_unimplemented" value="false"/>
 	</section>
 	<section name="completion_proposal_size">
 	</section>
@@ -99,6 +99,7 @@
 		<item key="updateTextualMatches" value="false"/>
 		<item key="updateQualifiedNames" value="false"/>
 		<item key="patterns" value="*"/>
+		<item key="renameSubpackages" value="false"/>
 	</section>
 	<section name="JarPackageWizard">
 		<item key="JarPackageWizardPage.EXPORT_CLASS_FILES" value="true"/>
